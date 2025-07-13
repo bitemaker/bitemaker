@@ -1,20 +1,16 @@
 ## Hi. I'm bitemaker! :wave:
 
-<!--
-**BiteMaker/bitemaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-🔭 I’m currently working on RX
-- 🌱 I’m currently learning something
+- 🔭 I’m currently working on RX
+<!-- - 🌱 I’m currently learning something
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with 
+- 💬 Ask me about your questions!
 - 📫 How to reach me: @
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
 
+
+<h2 id="programming-language">Programming language</h2>
   <p>
     <a href="https://golang.google.cn/"
       ><img
